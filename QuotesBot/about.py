@@ -9,5 +9,6 @@ async def about(bot, msg):
     await bot.send_message(
         msg.chat.id,
         Data.ABOUT,
-        reply_markup=InlineKeyboardMarkup(Data.home_buttons)
+        disable_web_page_preview=True,
+        reply_markup=InlineKeyboardMarkup(Data.home_buttons),
     )

@@ -4,6 +4,7 @@ TgCrypto
 SQLAlchemy~=1.4.21
 psycopg2
 
+lxml
 requests~=2.25.1
 bs4~=0.0.1
 beautifulsoup4~=4.9.3

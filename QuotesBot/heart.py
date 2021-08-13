@@ -55,7 +55,7 @@ main = InlineQueryResultArticle(
             thumb_url="https://telegra.ph/file/9fd2796d73782364dd2df.jpg",
             reply_markup=InlineKeyboardMarkup(
                 [
-                    [InlineKeyboardButton("🌎 Search Quotes 🌏", switch_inline_query_current_chat="")],
+                    [InlineKeyboardButton("✨ Search Quotes ✨", switch_inline_query_current_chat="")],
                     [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/StarkBots")]
                 ]
             ),
