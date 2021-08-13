@@ -1,5 +1,5 @@
-from database.users_sql import Users, num_users
-from database import SESSION
+from QuotesBot.database.users_sql import Users, num_users
+from QuotesBot.database import SESSION
 from pyrogram import Client, filters
 from pyrogram.types import Message
 
