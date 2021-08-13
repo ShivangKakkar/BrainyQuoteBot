@@ -60,7 +60,7 @@ More features in development. Keep track by joining @StarkBots.
 
 Bot created by @StarkBots which provides quotes from brainyquotes.com using Python.
 
-Source Code : [Click Here](https://github.com/StarkBotsIndustries/BrainyQuotesBot)
+Source Code : [Click Here](https://github.com/StarkBotsIndustries/BrainyQuoteBot)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
